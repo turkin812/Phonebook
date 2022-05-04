@@ -1,0 +1,10 @@
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\Phonebook.csproj.AssemblyReference.cache
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\Phonebook.csproj.SuggestedBindingRedirects.cache
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAbonents.resources
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormContacts.resources
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPhonebook.resources
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormProviders.resources
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\Phonebook.csproj.GenerateResource.cache
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache

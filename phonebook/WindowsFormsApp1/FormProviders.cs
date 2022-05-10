@@ -16,6 +16,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void buttonProviderRegister_Click(object sender, EventArgs e)
         {
@@ -39,5 +40,7 @@ namespace WindowsFormsApp1
         {
             DialogResult = DialogResult.Cancel;
         }
+=======
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
     }
 }

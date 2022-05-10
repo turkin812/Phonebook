@@ -87,7 +87,10 @@
             this.buttonRegister.TabIndex = 6;
             this.buttonRegister.Text = "Save";
             this.buttonRegister.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
             this.buttonRegister.Click += new System.EventHandler(this.buttonRegister_Click);
+=======
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             // 
             // buttonCancel
             // 
@@ -97,7 +100,10 @@
             this.buttonCancel.TabIndex = 7;
             this.buttonCancel.Text = "Cancel";
             this.buttonCancel.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
             this.buttonCancel.Click += new System.EventHandler(this.buttonCancel_Click);
+=======
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             // 
             // comboBoxProviders
             // 

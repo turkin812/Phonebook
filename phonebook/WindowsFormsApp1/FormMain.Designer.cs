@@ -30,6 +30,7 @@
         {
             this.tabControl_DataBase = new System.Windows.Forms.TabControl();
             this.tabPageAbonents = new System.Windows.Forms.TabPage();
+<<<<<<< HEAD
             this.dataGridViewAbonents = new System.Windows.Forms.DataGridView();
             this.tabPageContacts = new System.Windows.Forms.TabPage();
             this.dataGridViewContacts = new System.Windows.Forms.DataGridView();
@@ -41,10 +42,17 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.dataGridViewPhonebook = new System.Windows.Forms.DataGridView();
+=======
+            this.tabPageContacts = new System.Windows.Forms.TabPage();
+            this.tabPageProviders = new System.Windows.Forms.TabPage();
+            this.tabPagePhonebook = new System.Windows.Forms.TabPage();
+            this.dataGridViewAbonents = new System.Windows.Forms.DataGridView();
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             this.buttonAdd = new System.Windows.Forms.Button();
             this.buttonDelete = new System.Windows.Forms.Button();
             this.buttonChange = new System.Windows.Forms.Button();
             this.buttonUpdate = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.tabControl_DataBase.SuspendLayout();
             this.tabPageAbonents.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewAbonents)).BeginInit();
@@ -53,6 +61,23 @@
             this.tabPageProviders.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewProviders)).BeginInit();
             this.tabPagePhonebook.SuspendLayout();
+=======
+            this.dataGridViewContacts = new System.Windows.Forms.DataGridView();
+            this.dataGridViewProviders = new System.Windows.Forms.DataGridView();
+            this.dataGridViewPhonebook = new System.Windows.Forms.DataGridView();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textBoxSNP = new System.Windows.Forms.TextBox();
+            this.textBoxPhoneNumber = new System.Windows.Forms.TextBox();
+            this.tabControl_DataBase.SuspendLayout();
+            this.tabPageAbonents.SuspendLayout();
+            this.tabPageContacts.SuspendLayout();
+            this.tabPageProviders.SuspendLayout();
+            this.tabPagePhonebook.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewAbonents)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewContacts)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewProviders)).BeginInit();
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPhonebook)).BeginInit();
             this.SuspendLayout();
             // 
@@ -79,6 +104,7 @@
             this.tabPageAbonents.Text = "Abonents";
             this.tabPageAbonents.UseVisualStyleBackColor = true;
             // 
+<<<<<<< HEAD
             // dataGridViewAbonents
             // 
             this.dataGridViewAbonents.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -89,6 +115,8 @@
             this.dataGridViewAbonents.Size = new System.Drawing.Size(767, 321);
             this.dataGridViewAbonents.TabIndex = 0;
             // 
+=======
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             // tabPageContacts
             // 
             this.tabPageContacts.Controls.Add(this.dataGridViewContacts);
@@ -100,6 +128,7 @@
             this.tabPageContacts.Text = "Contacts";
             this.tabPageContacts.UseVisualStyleBackColor = true;
             // 
+<<<<<<< HEAD
             // dataGridViewContacts
             // 
             this.dataGridViewContacts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -110,6 +139,8 @@
             this.dataGridViewContacts.Size = new System.Drawing.Size(767, 321);
             this.dataGridViewContacts.TabIndex = 1;
             // 
+=======
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             // tabPageProviders
             // 
             this.tabPageProviders.Controls.Add(this.dataGridViewProviders);
@@ -120,6 +151,7 @@
             this.tabPageProviders.Text = "Providers";
             this.tabPageProviders.UseVisualStyleBackColor = true;
             // 
+<<<<<<< HEAD
             // dataGridViewProviders
             // 
             this.dataGridViewProviders.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -130,6 +162,8 @@
             this.dataGridViewProviders.Size = new System.Drawing.Size(767, 321);
             this.dataGridViewProviders.TabIndex = 1;
             // 
+=======
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             // tabPagePhonebook
             // 
             this.tabPagePhonebook.Controls.Add(this.textBoxPhoneNumber);
@@ -144,6 +178,7 @@
             this.tabPagePhonebook.Text = "Phoneboook";
             this.tabPagePhonebook.UseVisualStyleBackColor = true;
             // 
+<<<<<<< HEAD
             // textBoxPhoneNumber
             // 
             this.textBoxPhoneNumber.Location = new System.Drawing.Point(78, 363);
@@ -176,6 +211,73 @@
             this.label1.Size = new System.Drawing.Size(41, 16);
             this.label1.TabIndex = 2;
             this.label1.Text = "SNP :";
+=======
+            // dataGridViewAbonents
+            // 
+            this.dataGridViewAbonents.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewAbonents.Location = new System.Drawing.Point(0, 0);
+            this.dataGridViewAbonents.Name = "dataGridViewAbonents";
+            this.dataGridViewAbonents.RowHeadersWidth = 51;
+            this.dataGridViewAbonents.RowTemplate.Height = 24;
+            this.dataGridViewAbonents.Size = new System.Drawing.Size(767, 321);
+            this.dataGridViewAbonents.TabIndex = 0;
+            // 
+            // buttonAdd
+            // 
+            this.buttonAdd.Location = new System.Drawing.Point(13, 445);
+            this.buttonAdd.Name = "buttonAdd";
+            this.buttonAdd.Size = new System.Drawing.Size(151, 53);
+            this.buttonAdd.TabIndex = 1;
+            this.buttonAdd.Text = "Add";
+            this.buttonAdd.UseVisualStyleBackColor = true;
+            // 
+            // buttonDelete
+            // 
+            this.buttonDelete.Location = new System.Drawing.Point(170, 445);
+            this.buttonDelete.Name = "buttonDelete";
+            this.buttonDelete.Size = new System.Drawing.Size(151, 53);
+            this.buttonDelete.TabIndex = 2;
+            this.buttonDelete.Text = "Delete";
+            this.buttonDelete.UseVisualStyleBackColor = true;
+            // 
+            // buttonChange
+            // 
+            this.buttonChange.Location = new System.Drawing.Point(327, 445);
+            this.buttonChange.Name = "buttonChange";
+            this.buttonChange.Size = new System.Drawing.Size(151, 53);
+            this.buttonChange.TabIndex = 3;
+            this.buttonChange.Text = "Change";
+            this.buttonChange.UseVisualStyleBackColor = true;
+            // 
+            // buttonUpdate
+            // 
+            this.buttonUpdate.Location = new System.Drawing.Point(484, 445);
+            this.buttonUpdate.Name = "buttonUpdate";
+            this.buttonUpdate.Size = new System.Drawing.Size(151, 53);
+            this.buttonUpdate.TabIndex = 4;
+            this.buttonUpdate.Text = "Update";
+            this.buttonUpdate.UseVisualStyleBackColor = true;
+            // 
+            // dataGridViewContacts
+            // 
+            this.dataGridViewContacts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewContacts.Location = new System.Drawing.Point(0, 0);
+            this.dataGridViewContacts.Name = "dataGridViewContacts";
+            this.dataGridViewContacts.RowHeadersWidth = 51;
+            this.dataGridViewContacts.RowTemplate.Height = 24;
+            this.dataGridViewContacts.Size = new System.Drawing.Size(767, 321);
+            this.dataGridViewContacts.TabIndex = 1;
+            // 
+            // dataGridViewProviders
+            // 
+            this.dataGridViewProviders.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewProviders.Location = new System.Drawing.Point(0, 0);
+            this.dataGridViewProviders.Name = "dataGridViewProviders";
+            this.dataGridViewProviders.RowHeadersWidth = 51;
+            this.dataGridViewProviders.RowTemplate.Height = 24;
+            this.dataGridViewProviders.Size = new System.Drawing.Size(767, 321);
+            this.dataGridViewProviders.TabIndex = 1;
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             // 
             // dataGridViewPhonebook
             // 
@@ -187,6 +289,7 @@
             this.dataGridViewPhonebook.Size = new System.Drawing.Size(767, 321);
             this.dataGridViewPhonebook.TabIndex = 1;
             // 
+<<<<<<< HEAD
             // buttonAdd
             // 
             this.buttonAdd.Location = new System.Drawing.Point(13, 445);
@@ -226,6 +329,39 @@
             this.buttonUpdate.Text = "Update";
             this.buttonUpdate.UseVisualStyleBackColor = true;
             this.buttonUpdate.Click += new System.EventHandler(this.buttonUpdate_Click);
+=======
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(28, 338);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(41, 16);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "SNP :";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(28, 366);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(52, 16);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Phone :";
+            // 
+            // textBoxSNP
+            // 
+            this.textBoxSNP.Location = new System.Drawing.Point(78, 335);
+            this.textBoxSNP.Name = "textBoxSNP";
+            this.textBoxSNP.Size = new System.Drawing.Size(270, 22);
+            this.textBoxSNP.TabIndex = 4;
+            // 
+            // textBoxPhoneNumber
+            // 
+            this.textBoxPhoneNumber.Location = new System.Drawing.Point(78, 363);
+            this.textBoxPhoneNumber.Name = "textBoxPhoneNumber";
+            this.textBoxPhoneNumber.Size = new System.Drawing.Size(173, 22);
+            this.textBoxPhoneNumber.TabIndex = 5;
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             // 
             // FormMain
             // 
@@ -241,6 +377,7 @@
             this.Text = "Phonebook";
             this.tabControl_DataBase.ResumeLayout(false);
             this.tabPageAbonents.ResumeLayout(false);
+<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewAbonents)).EndInit();
             this.tabPageContacts.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewContacts)).EndInit();
@@ -248,6 +385,15 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewProviders)).EndInit();
             this.tabPagePhonebook.ResumeLayout(false);
             this.tabPagePhonebook.PerformLayout();
+=======
+            this.tabPageContacts.ResumeLayout(false);
+            this.tabPageProviders.ResumeLayout(false);
+            this.tabPagePhonebook.ResumeLayout(false);
+            this.tabPagePhonebook.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewAbonents)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewContacts)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewProviders)).EndInit();
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPhonebook)).EndInit();
             this.ResumeLayout(false);
 

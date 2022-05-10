@@ -16,6 +16,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void buttonRegister_Click(object sender, EventArgs e)
         {
@@ -84,5 +85,7 @@ namespace WindowsFormsApp1
                 }
             }
         }
+=======
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
     }
 }

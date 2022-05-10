@@ -30,8 +30,13 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.textBoxProviderName = new System.Windows.Forms.TextBox();
             this.textBoxProviderScore = new System.Windows.Forms.TextBox();
+=======
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             this.buttonRegister = new System.Windows.Forms.Button();
             this.buttonCancel = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -54,6 +59,7 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Rating:";
             // 
+<<<<<<< HEAD
             // textBoxProviderName
             // 
             this.textBoxProviderName.Location = new System.Drawing.Point(101, 27);
@@ -67,6 +73,21 @@
             this.textBoxProviderScore.Name = "textBoxProviderScore";
             this.textBoxProviderScore.Size = new System.Drawing.Size(136, 22);
             this.textBoxProviderScore.TabIndex = 3;
+=======
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(101, 27);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(136, 22);
+            this.textBox1.TabIndex = 2;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(101, 76);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(136, 22);
+            this.textBox2.TabIndex = 3;
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             // 
             // buttonRegister
             // 
@@ -76,7 +97,10 @@
             this.buttonRegister.TabIndex = 4;
             this.buttonRegister.Text = "Save";
             this.buttonRegister.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
             this.buttonRegister.Click += new System.EventHandler(this.buttonProviderRegister_Click);
+=======
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             // 
             // buttonCancel
             // 
@@ -86,7 +110,10 @@
             this.buttonCancel.TabIndex = 5;
             this.buttonCancel.Text = "Cancel";
             this.buttonCancel.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
             this.buttonCancel.Click += new System.EventHandler(this.buttonProviderCancel_Click);
+=======
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             // 
             // FormProviders
             // 
@@ -95,12 +122,21 @@
             this.ClientSize = new System.Drawing.Size(263, 176);
             this.Controls.Add(this.buttonCancel);
             this.Controls.Add(this.buttonRegister);
+<<<<<<< HEAD
             this.Controls.Add(this.textBoxProviderScore);
             this.Controls.Add(this.textBoxProviderName);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "FormProviders";
             this.Text = "Новый провайдер";
+=======
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Name = "FormProviders";
+            this.Text = "FormProviders";
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -110,8 +146,13 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+<<<<<<< HEAD
         private System.Windows.Forms.TextBox textBoxProviderName;
         private System.Windows.Forms.TextBox textBoxProviderScore;
+=======
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox2;
+>>>>>>> f3950dcd69782ea235800390b425d8ebd1adf2c5
         private System.Windows.Forms.Button buttonRegister;
         private System.Windows.Forms.Button buttonCancel;
     }

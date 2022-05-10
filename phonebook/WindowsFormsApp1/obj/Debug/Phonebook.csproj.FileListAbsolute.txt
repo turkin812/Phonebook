@@ -8,3 +8,8 @@ C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\Windows
 C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
 C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\Phonebook.csproj.GenerateResource.cache
 C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\UserA66\Desktop\Studies\BD\phonebook\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
